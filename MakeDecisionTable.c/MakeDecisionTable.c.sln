@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual C++ Express 2010
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "MakeDecisionTable.c", "MakeDecisionTable.c\MakeDecisionTable.c.vcxproj", "{35A22772-E481-4C8C-88B9-D8446B0D0484}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{35A22772-E481-4C8C-88B9-D8446B0D0484}.Debug|Win32.ActiveCfg = Debug|Win32
+		{35A22772-E481-4C8C-88B9-D8446B0D0484}.Debug|Win32.Build.0 = Debug|Win32
+		{35A22772-E481-4C8C-88B9-D8446B0D0484}.Release|Win32.ActiveCfg = Release|Win32
+		{35A22772-E481-4C8C-88B9-D8446B0D0484}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
